@@ -1,4 +1,5 @@
-[![Banner](https://raw.githubusercontent.com/DenverCoder1/readme-banner/main/banner.gif)](https://github.com/natnicha326)
+[![Banner](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)](https://github.com/natnicha326)
+
 
 <h1 align="center">Hi 👋, I'm Natnicha Boonprem</h1>
 <h3 align="center">A passionate Web Developer from Thailand 🇹🇭</h3>
