@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/natnicha326?label=Follow&style=for-the-badge&logo=github&color=1DA1F2)](https://github.com/natnicha326)
+[![Hello](https://img.shields.io/badge/Hello-👋%20I'm%20Natnicha-ff69b4?style=for-the-badge)](https://github.com/natnicha326)
 
 
 
