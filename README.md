@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/natnicha326">
-    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" alt="Elegant Banner" width="800" style="border-radius:12px;" />
-  </a>
-</p>
-
 [![Hello](https://img.shields.io/badge/Hello-👋%20I'm%20Natnicha-ff69b4?style=for-the-badge)](https://github.com/natnicha326)
 
 <h1 align="center">Hi 👋, I'm Natnicha Boonprem</h1>
@@ -88,3 +82,4 @@
 - 📧 Email: **natnicha@email.com**  
 - 🌐 Portfolio: *Coming soon*  
 - 💼 LinkedIn: *Coming soon*  
+
