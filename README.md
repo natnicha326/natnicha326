@@ -12,7 +12,7 @@
 ## 👩 About Me
 
 - 👧 **Full Name:** Natnicha Boonprem  
-- 🏷️ **Nickname:** Phrae  
+- 🏷️ **Nickname:** Pear  
 - 🎂 **Date of Birth:** 9 November 2003  
 - 🎈 **Age:** 21 years old  
 - 💍 **Status:** Single  
