@@ -1,4 +1,4 @@
-[![Banner](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)](https://github.com/natnicha326)
+[![Banner](https://img.shields.io/badge/Welcome-Natnicha_Boonprem-blueviolet?style=for-the-badge&logo=github)](https://github.com/natnicha326)
 
 
 <h1 align="center">Hi 👋, I'm Natnicha Boonprem</h1>
