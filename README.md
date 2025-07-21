@@ -1,7 +1,5 @@
 [![Hello](https://img.shields.io/badge/Hello-👋%20I'm%20Natnicha-ff69b4?style=for-the-badge)](https://github.com/natnicha326)
 
-
-
 <h1 align="center">Hi 👋, I'm Natnicha Boonprem</h1>
 <h3 align="center">A passionate Web Developer from Thailand 🇹🇭</h3>
 
@@ -19,6 +17,7 @@
 - 🎈 **Age:** 21 years old  
 - 💍 **Status:** Single  
 - 🌏 **Nationality:** Thai  
+- 🎓 *Currently pursuing a Bachelor's degree in Computer Science*  
 - 💻 I’m passionate about web development and always eager to learn new technologies and frameworks.  
 - ☕ Fun fact: I love coffee and cats!  
 
@@ -80,6 +79,6 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **natnicha@email.com**
-- 🌐 Portfolio: *Coming soon*
-- 💼 LinkedIn: *Coming soon*
+- 📧 Email: **natnicha@email.com**  
+- 🌐 Portfolio: *Coming soon*  
+- 💼 LinkedIn: *Coming soon*  
