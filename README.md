@@ -1,4 +1,5 @@
-![Natnicha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natnicha326&show_icons=true&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/natnicha326?label=Follow&style=for-the-badge&logo=github&color=1DA1F2)](https://github.com/natnicha326)
+
 
 
 <h1 align="center">Hi 👋, I'm Natnicha Boonprem</h1>
