@@ -1,4 +1,4 @@
-[![Header](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/natnicha326)
+[![Banner](https://raw.githubusercontent.com/DenverCoder1/readme-banner/main/banner.gif)](https://github.com/natnicha326)
 
 <h1 align="center">Hi 👋, I'm Natnicha Boonprem</h1>
 <h3 align="center">A passionate Web Developer from Thailand 🇹🇭</h3>
